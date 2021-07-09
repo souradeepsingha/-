@@ -916,7 +916,7 @@ header .fa-bars{
         <input type="submit" value="search">
 
     </form> -->
-</div>
+
 
 </section>
 
